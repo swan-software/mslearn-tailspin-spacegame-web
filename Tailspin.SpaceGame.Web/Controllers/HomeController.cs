@@ -33,6 +33,7 @@ namespace TailSpin.SpaceGame.Web.Controllers
             )
         {
             // Create the view model with initial values we already know.
+            // Extra comment added by warwick.
             var vm = new LeaderboardViewModel
             {
                 Page = page,
